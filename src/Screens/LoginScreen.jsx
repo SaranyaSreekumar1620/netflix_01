@@ -59,7 +59,7 @@ const LoginScreen = () => {
                 membership.
               </h3>
               <div className={classes.loginScreen__input}>
-                <form action="">
+                <form>
                   <input type="email" placeholder="Email Address" />
                   <button
                     onClick={() => setSignIn(true)}
