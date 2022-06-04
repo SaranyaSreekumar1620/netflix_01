@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/netflix_01/static/css/main.b6295af4.css",
-    "main.js": "/netflix_01/static/js/main.e9892a43.js",
+    "main.js": "/netflix_01/static/js/main.f8f20597.js",
     "static/js/787.0904c1f0.chunk.js": "/netflix_01/static/js/787.0904c1f0.chunk.js",
     "static/media/logo.png": "/netflix_01/static/media/logo.029706d5ba766e865ef3.png",
     "index.html": "/netflix_01/index.html",
     "main.b6295af4.css.map": "/netflix_01/static/css/main.b6295af4.css.map",
-    "main.e9892a43.js.map": "/netflix_01/static/js/main.e9892a43.js.map",
+    "main.f8f20597.js.map": "/netflix_01/static/js/main.f8f20597.js.map",
     "787.0904c1f0.chunk.js.map": "/netflix_01/static/js/787.0904c1f0.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b6295af4.css",
-    "static/js/main.e9892a43.js"
+    "static/js/main.f8f20597.js"
   ]
 }
